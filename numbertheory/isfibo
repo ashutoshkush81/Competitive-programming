@@ -1,0 +1,23 @@
+/*
+https://www.hackerrank.com/contests/codesprint5/challenges/is-fibo/problem
+Input Format
+The first line contains , number of test cases.
+ lines follow. Each line contains an integer .
+
+Output Format
+Display IsFibo if  is a Fibonacci number and IsNotFibo if it is not. The output for each test case should be displayed in a new line.
+
+Constraints
+
+
+Sample Input
+
+3
+5
+7
+8
+Sample Output
+
+IsFibo
+IsNotFibo
+IsFibo*/

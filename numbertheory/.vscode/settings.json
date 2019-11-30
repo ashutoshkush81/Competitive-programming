@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "ostream": "cpp"
+    },
+    "C_Cpp.default.intelliSenseMode": "gcc-x86",
+    "editor.fontFamily": "'Droid Sans Mono', 'monospace', 'Fira Code', 'Droid Sans Fallback'",
+    "editor.fontLigatures": true
+}

@@ -9,7 +9,7 @@ touch 1.cpp
 touch 2.cpp
 touch 3.cpp
 touch 4.cpp
-cp ~/compile.sh .
+cp ~/test.py .
 code 1.cpp
 code 2.cpp
 code 3.cpp
